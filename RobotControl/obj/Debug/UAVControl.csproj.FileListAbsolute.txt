@@ -1,0 +1,14 @@
+C:\Project\无人机项目\UAVControl\Trunk\UAVControl\UAVControl\bin\Debug\UAVControl.exe.config
+C:\Project\无人机项目\UAVControl\Trunk\UAVControl\UAVControl\bin\Debug\UAVControl.exe
+C:\Project\无人机项目\UAVControl\Trunk\UAVControl\UAVControl\bin\Debug\UAVControl.pdb
+C:\Project\无人机项目\UAVControl\Trunk\UAVControl\UAVControl\obj\Debug\UAVControl.csproj.AssemblyReference.cache
+C:\Project\无人机项目\UAVControl\Trunk\UAVControl\UAVControl\obj\Debug\UAVControl.Form1.resources
+C:\Project\无人机项目\UAVControl\Trunk\UAVControl\UAVControl\obj\Debug\UAVControl.Properties.Resources.resources
+C:\Project\无人机项目\UAVControl\Trunk\UAVControl\UAVControl\obj\Debug\UAVControl.csproj.GenerateResource.cache
+C:\Project\无人机项目\UAVControl\Trunk\UAVControl\UAVControl\obj\Debug\UAVControl.csproj.CoreCompileInputs.cache
+C:\Project\无人机项目\UAVControl\Trunk\UAVControl\UAVControl\obj\Debug\UAVControl.exe
+C:\Project\无人机项目\UAVControl\Trunk\UAVControl\UAVControl\obj\Debug\UAVControl.pdb
+C:\Project\无人机项目\UAVControl\Trunk\UAVControl\UAVControl\obj\Debug\UAVControl.CommConfig.resources
+C:\Project\无人机项目\UAVControl\Trunk\UAVControl\UAVControl\bin\Debug\Config.ini
+C:\Project\无人机项目\UAVControl\Trunk\UAVControl\UAVControl\obj\Debug\UAVControl.MovePose.resources
+C:\Project\无人机项目\UAVControl\Trunk\UAVControl\UAVControl\obj\Debug\UAVControl.MoveLoc.resources

@@ -1,0 +1,62 @@
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\bin\Debug\Config.ini
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\bin\Debug\AGVControl.exe.config
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\bin\Debug\AGVControl.exe
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\bin\Debug\AGVControl.pdb
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.csproj.AssemblyReference.cache
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.Properties.Resources.resources
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.csproj.GenerateResource.cache
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.csproj.CoreCompileInputs.cache
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.exe
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.pdb
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.MoveLoc.resources
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.MovePose.resources
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.CommConfig.resources
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.Form1.resources
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\bin\Debug\EasyModbus.dll
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\bin\Debug\EasyModbus.xml
+C:\Project\顶盖\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.csproj.CopyComplete
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\bin\Debug\Config.ini
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\bin\Debug\AGVControl.exe.config
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\bin\Debug\AGVControl.exe
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\bin\Debug\AGVControl.pdb
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\bin\Debug\EasyModbus.dll
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\bin\Debug\EasyModbus.xml
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\obj\Debug\AGVControl.csproj.AssemblyReference.cache
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\obj\Debug\AGVControl.MoveLoc.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\obj\Debug\AGVControl.MovePose.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\obj\Debug\AGVControl.CommConfig.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\obj\Debug\AGVControl.Form1.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\obj\Debug\AGVControl.Properties.Resources.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\obj\Debug\AGVControl.csproj.GenerateResource.cache
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\obj\Debug\AGVControl.csproj.CoreCompileInputs.cache
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\obj\Debug\AGVControl.csproj.CopyComplete
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\obj\Debug\AGVControl.exe
+C:\Project\3 去污机器人\AGV\AGVControl\Tag\2023-11-27\AGVControl\obj\Debug\AGVControl.pdb
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.csproj.AssemblyReference.cache
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.Form2.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.MoveLoc.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.MovePose.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.CommConfig.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.Form1.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.Properties.Resources.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.csproj.GenerateResource.cache
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.csproj.CoreCompileInputs.cache
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\bin\Debug\Config.ini
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\bin\Debug\AGVControl.exe.config
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\bin\Debug\AGVControl.exe
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\bin\Debug\AGVControl.pdb
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\bin\Debug\EasyModbus.dll
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\bin\Debug\EasyModbus.xml
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.csproj.CopyComplete
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.exe
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\AGVControl\obj\Debug\AGVControl.pdb
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\RobotControl\obj\Debug\AGVControl.csproj.AssemblyReference.cache
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\RobotControl\obj\Debug\RobotControl.Form1.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\RobotControl\obj\Debug\RobotControl.Form2.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\RobotControl\obj\Debug\RobotControl.MoveLoc.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\RobotControl\obj\Debug\RobotControl.MovePose.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\RobotControl\obj\Debug\RobotControl.CommConfig.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\RobotControl\obj\Debug\RobotControl.Form0.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\RobotControl\obj\Debug\RobotControl.Properties.Resources.resources
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\RobotControl\obj\Debug\AGVControl.csproj.GenerateResource.cache
+C:\Project\3 去污机器人\AGV\AGVControl\Trunk\RobotControl\obj\Debug\AGVControl.csproj.CoreCompileInputs.cache
